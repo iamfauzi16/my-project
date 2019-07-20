@@ -2,4 +2,4 @@ myproject
   -membuat brand desain website ui dan ux
   -membuat icon pada brand
   -membuat server side company
-  
+  -membuat side callcenter,engenering
