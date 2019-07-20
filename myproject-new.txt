@@ -1,6 +1,0 @@
-myproject
-  -membuat brand desain website ui dan ux
-  -membuat server side company
-  -membuat side callcenter,engenering
-  -membuka lowongan pekerjaan
-  -mendesain kantor
