@@ -3,7 +3,9 @@ RENCANA KONTEN WPU
 - JAVASCIRPT
   #ES6
   #Framework Javascript
-- STRUKTR DATA DASAR
+    -Angular
+    -React
 - PHP FRAMEWORK
+    -Yii
 - INTERVIEW
 - VLOG
