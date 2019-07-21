@@ -5,9 +5,12 @@ RENCANA KONTEN WPU
   #Framework Javascript
    -Vue
    -React
-- STRUKTR DATA DASAR
+   -Angular
+- STRUKTUR DATA DASAR
 - PHP FRAMEWORK
    -Yii
 - INTERVIEW
 - VLOG
 - Python
+- React Native
+- CASS
