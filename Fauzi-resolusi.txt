@@ -1,0 +1,6 @@
+//Halo pak, salam kenal nama saya fauzi dari depok jawa barat
+
+Resolusi saya :
+  -membuat website menggunakan framework javascript
+  -membuat website menggunakan sass
+  -membuat app ios dan android app
